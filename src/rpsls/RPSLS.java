@@ -9,7 +9,6 @@
  */
 package rpsls;
 
-import java.util.Random;
 import java.util.Scanner;
 
 public class RPSLS {
